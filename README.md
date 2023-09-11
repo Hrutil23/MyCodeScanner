@@ -2,4 +2,4 @@
 
 --- 
 
-* It will scane the QR code and show the link or info from QR code 
+* It will scan the QR code and show the link or info from QR code 
