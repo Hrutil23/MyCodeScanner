@@ -44,7 +44,7 @@ struct ContentView: View {
             
             Spacer()
             
-            Text("Jay Meldi Maa")
+            Text("Hello World !")
         
             Spacer()
             
